@@ -1,0 +1,27 @@
+/*Carolina Rodriguez 
+CSS File for Assignment 7
+Resources:
+Liang, Y. D. Chapter 31. In Introduction to Java programming and data structures (13th ed.). Pearson.
+OpenJFX. (n.d.). JavaFX CSS reference guide. https://openjfx.io/javadoc/12/javafx.graphics/javafx/scene/doc-files/cssref.html
+*/
+
+
+.plaincircle {
+    -fx-fill: white;
+    -fx-stroke: black;
+}
+
+.border {
+    -fx-border-color: black;
+    -fx-border-width: 5;
+}
+
+#redcircle {
+    -fx-fill: red;
+    -fx-stroke: red;
+}
+
+#greencircle {
+    -fx-fill: green;
+    -fx-stroke: green;
+}
